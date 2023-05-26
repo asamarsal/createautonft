@@ -1,0 +1,47 @@
+{
+  "dna": "10a21daffd85240acfa5f943a10c5ba9d97976bb",
+  "name": "#49",
+  "description": "ujangmental's PolyAliens NFT collection.",
+  "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/49.png",
+  "edition": 49,
+  "date": 1685075729742,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green_bg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "pink_eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "bored_smile"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "pizza_shirt"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "blue_scarf"
+    },
+    {
+      "trait_type": "Weed",
+      "value": "weed"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "purple_glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "black_hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

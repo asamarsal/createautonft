@@ -1,0 +1,2352 @@
+[
+  {
+    "dna": "b8907d4a33d129580b1e08fef334a24c8bb39c91",
+    "name": "#2",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/2.png",
+    "edition": 2,
+    "date": 1685075728618,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "pink_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "green_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "orange_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "purple_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "10a21daffd85240acfa5f943a10c5ba9d97976bb",
+    "name": "#49",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/49.png",
+    "edition": 49,
+    "date": 1685075729742,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "green_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "pink_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "bored_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pizza_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "purple_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "f261539eac6ad3d0321d1afc822f69b6a42d7b8e",
+    "name": "#12",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/12.png",
+    "edition": 12,
+    "date": 1685075730707,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "pink_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "green_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "brown_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "orange_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "5805785a162eb9394dd78ced36ca55c953b89f8b",
+    "name": "#35",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/35.png",
+    "edition": 35,
+    "date": 1685075732008,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "universe"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "green_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "brown_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "df774bb95dfa11a058ab934a2f15072ace1827bb",
+    "name": "#26",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/26.png",
+    "edition": 26,
+    "date": 1685075733126,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "yellow_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "green_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "red_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "7a2f10436d75d065f0f63178c2065bea5bfb04b4",
+    "name": "#18",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/18.png",
+    "edition": 18,
+    "date": 1685075734101,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "blue_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "pink_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "brown_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "3b5331f797dee158344b2afb87fac8585868aaf0",
+    "name": "#21",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/21.png",
+    "edition": 21,
+    "date": 1685075735075,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "dark_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blue_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "6cd9446526c9a18868dbf0c3b2b7bb1c3e1101f7",
+    "name": "#19",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/19.png",
+    "edition": 19,
+    "date": 1685075736006,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "red_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "bored_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "yellow_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blue_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "orange_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "fd611a9578df5b91de6245c2a9cffb025ed4a578",
+    "name": "#44",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/44.png",
+    "edition": 44,
+    "date": 1685075736938,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "green_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "yellow_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "yellow_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "green_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "red_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "6ccf6ea370802c713be03704c0e7200a8af4e455",
+    "name": "#11",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/11.png",
+    "edition": 11,
+    "date": 1685075737869,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "dark_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "gray_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "peace_chain"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blue_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "red_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "09e66dfb162883d4107bcfb623854c76f1fef637",
+    "name": "#47",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/47.png",
+    "edition": 47,
+    "date": 1685075738792,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "light_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "green_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blue_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "eac061916c546fd38ffabe286c68a49d074fe3d3",
+    "name": "#41",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/41.png",
+    "edition": 41,
+    "date": 1685075739805,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "green_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "red_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "yellow_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "brown_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "orange_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "75361a0eaf336617b0473d31e3b3537e71538709",
+    "name": "#42",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/42.png",
+    "edition": 42,
+    "date": 1685075740949,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "green_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "pink_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "yellow_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "purple_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "orange_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "886345a4a18a74dd9575b264c8340202133855af",
+    "name": "#31",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/31.png",
+    "edition": 31,
+    "date": 1685075741896,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "dark_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "gray_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "orange_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "green_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "d9d4487376c36fa31348896516794ebf893bccc6",
+    "name": "#3",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/3.png",
+    "edition": 3,
+    "date": 1685075742771,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "dark_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "purple_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "23e550bd9b54f07d94e761a3c99228b1d26c158d",
+    "name": "#50",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/50.png",
+    "edition": 50,
+    "date": 1685075743775,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "red_spotlight"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "light_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "gray_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "orange_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "red_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "a4015755843d764b6200ffe01087188ffdb8db5c",
+    "name": "#45",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/45.png",
+    "edition": 45,
+    "date": 1685075744843,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "scifi"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "dark_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "green_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "green_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "orange_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "6071c4c1bfc3c7d2129cffe3587877618353bd5f",
+    "name": "#43",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/43.png",
+    "edition": 43,
+    "date": 1685075745770,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "dark_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pizza_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "green_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "orange_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "b8b69f2b29581bb60da8e522d282c26ec960712c",
+    "name": "#36",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/36.png",
+    "edition": 36,
+    "date": 1685075746717,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "green_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "tie-dye_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blue_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0648105281436e073c82c3aaa78d80740ec25b42",
+    "name": "#46",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/46.png",
+    "edition": 46,
+    "date": 1685075747682,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "blue_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "pink_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pizza_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "7fbad0ed9977bc7126f60fa9e7d33de74e82e914",
+    "name": "#38",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/38.png",
+    "edition": 38,
+    "date": 1685075748622,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "red_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "yellow_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "purple_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "orange_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "5d83db4116d1c7361a60a2bd7527261c76819d82",
+    "name": "#14",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/14.png",
+    "edition": 14,
+    "date": 1685075749544,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "red_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "orange_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "33670ff293d4175bf26e32a763941ee902489239",
+    "name": "#7",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/7.png",
+    "edition": 7,
+    "date": 1685075750444,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "dark_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "gray_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "purple_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "red_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "773849eb5f741e319897af3e7a7ca404a2e2f901",
+    "name": "#40",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/40.png",
+    "edition": 40,
+    "date": 1685075751335,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "green_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "gray_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "green_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "5b86d12c1a3b34f6d2020ea399d7953bcf0d66d2",
+    "name": "#8",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/8.png",
+    "edition": 8,
+    "date": 1685075752255,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "yellow_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "gray_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "red_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "9128e4f727dc97ae39fd84ece00ea87bd1034421",
+    "name": "#5",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/5.png",
+    "edition": 5,
+    "date": 1685075753240,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "green_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "light_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "gray_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blue_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "095eb39215edb293ee76667d15382a32dcf98b50",
+    "name": "#48",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/48.png",
+    "edition": 48,
+    "date": 1685075754149,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "red_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "green_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "orange_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "633d4ddcfabf5c5ef7ada2166d7af9ce3ccdc5a6",
+    "name": "#13",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/13.png",
+    "edition": 13,
+    "date": 1685075754970,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "pink_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "gray_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blue_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "b3d4424c50c31146e30fb7517e6c0f4a1d39f0b3",
+    "name": "#20",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/20.png",
+    "edition": 20,
+    "date": 1685075755842,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "red_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pizza_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "peace_chain"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "james_bond glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "fcae201b72e1bee9ceea58ed47e8fc9bc7e7a995",
+    "name": "#23",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/23.png",
+    "edition": 23,
+    "date": 1685075756720,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "green_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "yellow_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "gray_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "orange_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "purple_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "red_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "c9c1d031f17b3d92161b2e774d6d0804157149fb",
+    "name": "#29",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/29.png",
+    "edition": 29,
+    "date": 1685075757715,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "green_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "light_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pizza_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "james_bond glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "1f8c72de3bc3176a9af69388dd41abf0c7899f96",
+    "name": "#22",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/22.png",
+    "edition": 22,
+    "date": 1685075758564,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "dark_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "gray_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "brown_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "orange_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "3c1022fa969b39e6798c92d0a9c6f7a705b163c4",
+    "name": "#24",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/24.png",
+    "edition": 24,
+    "date": 1685075759422,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "dark_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "bored_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "yellow_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "green_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "orange_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "d1794a6ab57c34432e67c9d665a70ac67d8b54f6",
+    "name": "#4",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/4.png",
+    "edition": 4,
+    "date": 1685075760201,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "green_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "tie-dye_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "brown_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "bc57a01956153467052a63adc547b6c1d3089932",
+    "name": "#1",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/1.png",
+    "edition": 1,
+    "date": 1685075761481,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "pink_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "tie-dye_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blue_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "orange_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "7214de86d27692e7b1a5b13a1e1bcff231c465dd",
+    "name": "#10",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/10.png",
+    "edition": 10,
+    "date": 1685075762732,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "light_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "gray_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "brown_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "90bcd376ab8b54bb3158ebb50b4de3d7952cdcad",
+    "name": "#16",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/16.png",
+    "edition": 16,
+    "date": 1685075763837,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "dark_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "green_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "green_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "67088d3c16be10eafa7c5572102c87ed374e36ae",
+    "name": "#25",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/25.png",
+    "edition": 25,
+    "date": 1685075764782,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "dark_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "green_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blue_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "9d8bd07a841382e64228f48e1ea4c1c88b310ba3",
+    "name": "#32",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/32.png",
+    "edition": 32,
+    "date": 1685075765525,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "green_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "yellow_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black_hat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "2b2be4df1585c5db751143e35735149be9212c0a",
+    "name": "#39",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/39.png",
+    "edition": 39,
+    "date": 1685075766426,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "green_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "light_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "green_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "purple_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "orange_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "bdd22bde3ed59eafe8a5ff084ba82e866c3bb372",
+    "name": "#17",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/17.png",
+    "edition": 17,
+    "date": 1685075767517,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "green_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "bored_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pizza_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "james_bond glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "red_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "83aa45fb781655515eddd0ae4cf8d9a56c937b46",
+    "name": "#30",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/30.png",
+    "edition": 30,
+    "date": 1685075768646,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "red_spotlight"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "light_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pizza_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "purple_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "red_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "8b625e76396dd62b78aa52ef0efa86205814b736",
+    "name": "#37",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/37.png",
+    "edition": 37,
+    "date": 1685075769787,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "blue_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "yellow_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "yellow_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "green_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "red_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "d0265b54fd3b20c7e03d81f151a5a6352d513b13",
+    "name": "#33",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/33.png",
+    "edition": 33,
+    "date": 1685075770886,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "dark_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "bored_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pizza_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "green_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "red_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "c07238e1632d4320996b6026e65e5512feeeffb1",
+    "name": "#27",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/27.png",
+    "edition": 27,
+    "date": 1685075771946,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "green_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "gray_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blue_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "91f49fbf5629f378cfb75f2f774c456cbedb0ebc",
+    "name": "#15",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/15.png",
+    "edition": 15,
+    "date": 1685075772804,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "orange_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "light_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "yellow_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "red_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "green_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "orange_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "952ce03b961510afbfd0bc70f694cfee53bfbf4f",
+    "name": "#6",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/6.png",
+    "edition": 6,
+    "date": 1685075773744,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "red_spotlight"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "dark_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pizza_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "red_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "272bb7329cc6ced011195331a698e3bbccbc0480",
+    "name": "#9",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/9.png",
+    "edition": 9,
+    "date": 1685075774620,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "pink_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "attitude_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "yellow_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "orange_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "brown_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "orange_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "6f91400d9624096fb312e2104db6df2f5feb7a8a",
+    "name": "#28",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/28.png",
+    "edition": 28,
+    "date": 1685075776018,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "dark_blue eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "happy_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "yellow_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "orange_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "green_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "blue_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0307e83cd7953d83842cf292331f677d8e2b037c",
+    "name": "#34",
+    "description": "ujangmental's PolyAliens NFT collection.",
+    "image": "ipfs://QmTAZPkVX8MYXQ6M88eJMBTEvZ6C5SDSdES9YJtbE5K9Kq/34.png",
+    "edition": 34,
+    "date": 1685075777263,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "green_bg"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "green_eyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "bored_smile"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "gray_shirt"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "blue_scarf"
+      },
+      {
+        "trait_type": "Weed",
+        "value": "weed"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "brown_glasses"
+      },
+      {
+        "trait_type": "Head",
+        "value": "red_bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
