@@ -10,5 +10,5 @@ https://github.com/stackup-dev/creating-an-nft-fullstack-dapp
 Metadata
 <img align='center' src='https://github.com/asamarsal/createautonft/blob/main/cover2.PNG' width='900"'>
 Code
-<img align='center' src='https://github.com/asamarsal/createautonft/blob/main/cover3.PNG' width='500"'>
-<img align='center' src='https://github.com/asamarsal/createautonft/blob/main/cover4.PNG' width='300"'>
+<img align='left' src='https://github.com/asamarsal/createautonft/blob/main/cover3.PNG' width='500"'>
+<img align='right' src='https://github.com/asamarsal/createautonft/blob/main/cover4.PNG' width='300"'>
