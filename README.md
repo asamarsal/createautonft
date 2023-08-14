@@ -12,7 +12,7 @@ Metadata
 Code
 <img align='left' src="https://github.com/asamarsal/createautonft/blob/main/cover5.png" width="900"/>
 
-<br>
+<br/>
 How to use :
 See the step on https://app.stackup.dev/quest_page/nft-metadata-ipfs-and-pinata
 
