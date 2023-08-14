@@ -11,7 +11,8 @@ Metadata
 <img align='center' src='https://github.com/asamarsal/createautonft/blob/main/cover2.PNG' width='900"'>
 Code
 <img align='left' src='https://github.com/asamarsal/createautonft/blob/main/cover5.png' width='900"'>
-<br>
+
+
 How to use :
 See the step on https://app.stackup.dev/quest_page/nft-metadata-ipfs-and-pinata
 
